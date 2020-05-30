@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: [ './app.component.css' ]
 })
 export class AppComponent  {
-  name = 'NG Conf';
+  name = 'NG Conf YouTube Viewer';
 }
